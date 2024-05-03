@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.042,D:\DelphiProjects\TI_Lab_1.dproj=D:\DelphiProjects\Лабы\ТИ\№1\TI_Lab_1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.945,D:\DelphiProjects\Лабы\ТИ\№1\uDataImages.dfm=D:\DelphiProjects\Лабы\ТИ\№1\udtmdImages.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.521,D:\DelphiProjects\Лабы\ТИ\№3\AnticlownCiphering3.dproj=D:\DelphiProjects\Лабы\ТИ\№3\AnticlownCiphering2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,D:\DelphiProjects\Unit1.dfm=D:\DelphiProjects\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.730,=D:\DelphiProjects\Лабы\ТИ\№1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.994,D:\DelphiProjects\Project1.dproj=D:\DelphiProjects\TI_Lab_1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.616,D:\DelphiProjects\Лабы\ТИ\№1\uFileChecker.pas=D:\DelphiProjects\Лабы\ТИ\№1\uFileChecks.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.638,D:\DelphiProjects\uMain.pas=D:\DelphiProjects\Лабы\ТИ\№1\uMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,D:\DelphiProjects\Лабы\ТИ\№1\Unit1.dfm=D:\DelphiProjects\Лабы\ТИ\№1\uDataImages.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.638,D:\DelphiProjects\uMain.dfm=D:\DelphiProjects\Лабы\ТИ\№1\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.197,D:\DelphiProjects\Лабы\ТИ\№1\uFileChecks.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.220,=D:\DelphiProjects\Лабы\ТИ\№1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.772,D:\DelphiProjects\Лабы\ТИ\№1\TI_Lab_1.dproj=D:\DelphiProjects\Лабы\ТИ\№1\AnticlownCiphering.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.331,D:\DelphiProjects\Лабы\ТИ\№2\AnticlownCiphering.dproj=D:\DelphiProjects\Лабы\ТИ\№2\AnticlownCiphering2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.906,=D:\DelphiProjects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,D:\DelphiProjects\Unit1.pas=D:\DelphiProjects\uMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.891,=D:\DelphiProjects\Лабы\ТИ\№1\uFormEnhances.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.537,D:\DelphiProjects\Лабы\ТИ\№1\uTCipherEng.pas=D:\DelphiProjects\Лабы\ТИ\№1\uCipherAlgs.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.487,=D:\DelphiProjects\Лабы\ТИ\№1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.415,D:\DelphiProjects\Лабы\ТИ\№1\Unit1.pas=D:\DelphiProjects\Лабы\ТИ\№1\uFileChecker.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.568,D:\DelphiProjects\Лабы\ТИ\№1\Unit1.pas=D:\DelphiProjects\Лабы\ТИ\№1\uCipherAlgs.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,D:\DelphiProjects\Лабы\ТИ\№1\Unit1.pas=D:\DelphiProjects\Лабы\ТИ\№1\uDataImages.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.945,D:\DelphiProjects\Лабы\ТИ\№1\uDataImages.pas=D:\DelphiProjects\Лабы\ТИ\№1\udtmdImages.pas</Transaction>
+  </Transactions>
+</BorlandProject>
