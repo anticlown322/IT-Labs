@@ -1,0 +1,20 @@
+Program AnticlownCiphering;
+
+Uses
+    Vcl.Forms,
+    UMain In 'uMain.pas' {frmMain} ,
+    UdtmdImages In 'udtmdImages.pas' {dtmdImages: TDataModule} ,
+    UTCipherEng In 'uTCipherEng.pas',
+    UFileChecks In 'uFileChecks.pas',
+    UFormEnhances In 'uFormEnhances.pas';
+
+{$R *.res}
+
+Begin
+    Application.Initialize;
+    // Application.MainFormOnTaskbar := True;
+    Application.CreateForm(TfrmMain, FrmMain);
+    Application.CreateForm(TdtmdImages, DtmdImages);
+    Application.Run;
+
+End.
